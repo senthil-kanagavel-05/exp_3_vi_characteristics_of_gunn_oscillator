@@ -2,7 +2,7 @@
 
 # Experiment 3 — V–I Characteristics of Gunn Oscillator
 
----
+---     
 
 ## Aim
 
@@ -75,13 +75,17 @@ Although a Gunn oscillator can be amplitude-modulated with the bias voltage, a s
 
 > **Note:** After tuning the Gunn source, follow the same procedure for VSWR and impedance measurement as for the depth of modulation of the PIN modulator.
 
-## Observation
 
-*(Include your own table relevant to the experiment.)*
 
-## Calculation
+## Tabulation & Calculation
 
-*(Include your own calculation relevant to the experiment.)*
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 54 AM" src="https://github.com/user-attachments/assets/d500435f-2f02-4361-b7da-5d514fe18a33" />
+
+
+## Graph
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 42 01 AM" src="https://github.com/user-attachments/assets/157c6fb7-43d4-431e-9ce5-3509d44543ba" />
+
+
 
 ## Precautions
 
@@ -90,5 +94,5 @@ Although a Gunn oscillator can be amplitude-modulated with the bias voltage, a s
 * Take the observations carefully.
 
 ## Conclusion
-
-*(Write your own.)*
+The voltage-current (V-I) characteristics of the Gunn oscillator were successfully measured and plotted
+```
